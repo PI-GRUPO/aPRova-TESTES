@@ -71,3 +71,7 @@ exercitar o **classificador de risco** do aPRova, que trata esses caminhos como
 sensiveis. O conteudo e trivial e nao ha segredo nenhum. O workflow de CI,
 porem, roda de verdade as tres suites em jobs separados, servindo tambem como
 verificacao independente do repositorio.
+
+## Reprocessamento da demonstracao
+
+Este commit atualiza a PR de demonstracao para exercitar novamente o fluxo integrado do aPRova.
